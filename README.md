@@ -10,4 +10,4 @@ python async_web_scraper.py https://python.org https://github.com
 
 Or provide URLs in a file:
 
-bashpython async_web_scraper.py --file urls.txt --concurrent 10
+python async_web_scraper.py --file urls.txt --concurrent 10
